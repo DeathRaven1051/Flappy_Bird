@@ -1,0 +1,7 @@
+Venv run cmd:
+
+venv name : flappy
+
+cmd:
+{venv name}\Scripts\activate => run
+flappy\Scripts\activate
